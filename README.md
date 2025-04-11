@@ -30,6 +30,15 @@ A fully decentralized blog platform built with **Solidity**, **IPFS**, **The Gra
 
 ---
 
+## 🪙 Token: $DBLOG
+
+We're launching a community token via **pump.fun**:
+- Power platform tipping & governance
+- Enable token-gated features in future versions
+- Read full [Tokenomics here](./token/pumpfun.md)
+
+---
+
 ## 📦 Quick Start
 
 ```bash
